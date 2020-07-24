@@ -1,0 +1,9 @@
+---
+eleventyExcludeFromCollections: true
+pagination:
+  data: registriesList
+  size: 1
+  alias: registry
+permalink: registry/<%= registry.id %>
+---
+<%- JSON.stringify(registry.registry, null, 2) -%>
