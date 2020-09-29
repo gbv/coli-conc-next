@@ -1,4 +1,6 @@
 # New coli-conc Website
+**Important note: This repository was moved to https://github.com/gbv/coli-conc.gbv.de!**
+
 Currently under development.
 
 ## Install and Build
